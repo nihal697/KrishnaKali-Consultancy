@@ -68,7 +68,7 @@ Built with free Google tools (details for operators: [`systems/free-invoicing-sy
 
 ## How I work
 
-1. **Discovery — 15-min ops map, no pitch.** You walk me through how work flows today (leads, onboarding, delivery, collections, reporting); I map the 3 highest-ROI fixes. You keep the map either way.
+1. **Discovery — 30-min ops map, no pitch.** You walk me through how work flows today (leads, onboarding, delivery, collections, reporting); I map the 3 highest-ROI fixes. You keep the map either way.
 2. **Audit** — I rank fixes by cash impact: which operation, if systematized, pays for the rest (usually collections first)
 3. **Build** — one operation designed and live, on tools you already own. No new subscriptions unless you approve them
 4. **Handover** — SOP + Loom + 2-week support so the team runs it without you in the room
@@ -77,7 +77,7 @@ Details: [`process/how-i-work.md`](./process/how-i-work.md)
 
 ## Contact
 
-- Email: nihalanand697@gmail.com (subject: "Map my operations" — I reply with 3 time slots)
+- Email: nihalanand697@gmail.com (subject: "Help me with this problem")
 - Phone: +91 7974072866
 - LinkedIn: [linkedin.com/in/nihal-anand](https://www.linkedin.com/in/nihal-anand)
 
