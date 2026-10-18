@@ -2,7 +2,7 @@
 
 **Designing structured systems, practical automation, and scalable workflows.**
 
-I design business operations that run without you chasing — clear workflows, controlled systems, and automations your team actually follows. Sheets and Apps Script are just tools I build with, not what I sell.
+I design business operations that run without you chasing — clear workflows, controlled systems, and automations your team actually follows. 
 
 📄 Full visual portfolio: [`BOSD Portfolio Nihal Anand.pdf`](./BOSD%20Portfolio%20Nihal%20Anand.pdf)
 📩 nihalanand697@gmail.com | 📞 +91 7974072866 | 🔗 [LinkedIn](https://www.linkedin.com/in/nihal-anand)
