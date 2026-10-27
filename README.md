@@ -6,12 +6,11 @@ I don't start with a solution. I start by diagnosing your pain points to find ou
 
 If fixing it is worth it, I offer the simplest solution that works. If it's not worth it, I'll tell you that upfront.
 
-[📩 nihalanand697@gmail.com](mailto:nihalanand697@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nihal-anand)
 
 ## How I work
 
 1. **Diagnose** – We talk through your day-to-day to find the real friction.
-2. **Assess** – I check if it's actually worth fixing.
+2. **Assess** – I assess if it's actually worth fixing and/or technology is required.
 3. **Solve** – If it is, I offer the simplest solution that works.
 4. **Handover** – I make sure it's easy for you or your team to keep running.
 
@@ -45,10 +44,6 @@ If fixing it is worth it, I offer the simplest solution that works. If it's not 
 └── SECURITY.md                          # redaction + secrets policy
 ```
 
-## Get started
+## Connect with me
 
-<<<<<<< HEAD
-1. **Discovery — 30-min ops map, no pitch.** You walk me through how work flows today (leads, onboarding, delivery, collections, reporting); I map the 3 highest-ROI fixes. You keep the map either way.
-2. **Audit** — I rank fixes by cash impact: which operation, if systematized, pays for the rest (usually collections first)
-3. **Build** — one operation designed and live, on tools you already own. No new subscriptions unless you approve them
-4. **Handover** — SOP + Loom + 2-week support so the team runs it without you in the room
+[📩 nihalanand697@gmail.com](mailto:nihalanand697@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nihal-anand)
