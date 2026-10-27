@@ -1,4 +1,4 @@
-# Business Operations Portfolio
+# Business Operations & Systems Design
 
 **I help businesses solve everyday problems and work more efficiently through better systems and technology.**
 
