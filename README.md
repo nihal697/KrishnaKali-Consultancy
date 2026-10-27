@@ -46,4 +46,8 @@ If fixing it is worth it, I offer the simplest solution that works. If it's not 
 
 ## Connect with me
 
-[📩 nihalanand697@gmail.com](mailto:nihalanand697@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nihal-anand)
+.[WhatsApp](
+
+[📩 nihalanand697@gmail.com](mailto:nihalanand697@gmail.com) |
+
+[LinkedIn](https://www.linkedin.com/in/nihal-anand)
