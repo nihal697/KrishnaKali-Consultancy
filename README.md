@@ -1,21 +1,23 @@
 # Business Operations & Systems Design
 
-**I help businesses solve everyday problems and work more efficiently through better systems and technology.**
+**We help businesses solve everyday problems, reduce unnecessary manual work and work more efficiently through better systems and technology.**
 
-I don't start with a solution. I start by diagnosing your pain points to find out what's actually getting in the way.
+Maybe work isn't getting done on time. Maybe leads are being wasted, routine tasks are eating up hours, or important things keep slipping through the cracks.
 
-If fixing it is worth it, I offer the simplest solution that works. If it's not worth it, I'll tell you that upfront.
+We start by understanding the problem—not by pushing a particular tool or technology.
 
-## How I work
+If there's a practical way to fix it, we'll help you find it and put it into action. Sometimes that means a better system. Sometimes it means automation. Sometimes a simple change is all that's needed.
+
+## How we work
 
 1. **Diagnose** – We talk through your day-to-day to find the real friction.
-2. **Assess** – I assess if it's actually worth fixing and/or technology is required.
-3. **Solve** – If it is, I offer the simplest solution that works.
-4. **Handover** – I make sure it's easy for you or your team to keep running.
+2. **Assess** – We assess if it's actually worth fixing and/or technology is required.
+3. **Solve** – If it is, we offer the simplest solution that works.
+4. **Handover** – We make sure it's easy for you or your team to keep running.
 
 ## Case Studies
 
-- **[Digital Marketing Operations End-to-End Design](./Digital%20Marketing%20Operations%20End-to-End%20Design.pdf)** – Full visual portfolio of past work.
+- **[Digital Marketing Operations End-to-End Design](./Digital%20Marketing%20Operations%20End-to-End%20Design.pdf)** – Full visual portfolio.
 - **[Collections Fix](./systems/free-invoicing-system/README.md)** – Turning unpaid invoices into a system that follows up without you chasing. Every follow-up logged, with clear visibility of what's paid, due, or overdue.
 
 > Live client data is **not** in this repo. All examples use anonymized demo data. No passwords, API keys, or Workbook IDs are committed — see [`SECURITY.md`](./SECURITY.md).
@@ -43,6 +45,7 @@ If fixing it is worth it, I offer the simplest solution that works. If it's not 
 └── SECURITY.md                          # redaction + secrets policy
 ```
 
-## Connect with me
+## Have a problem that's wasting time or making work harder than it should be?
+Tell us what's happening. We'll discuss whether there's a practical way to improve it.
 
 [📩 nihalanand697@gmail.com](mailto:nihalanand697@gmail.com) | [WhatsApp](https://wa.me/917974072866) | [LinkedIn](https://www.linkedin.com/in/nihal-anand)
