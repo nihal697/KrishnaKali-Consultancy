@@ -48,4 +48,4 @@ If there's a practical way to fix it, we'll help you find it and put it into act
 ## Have a problem that's wasting time or making work harder than it should be?
 Tell us what's happening. We'll discuss whether there's a practical way to improve it.
 
-[📩 nihalanand697@gmail.com](mailto:nihalanand697@gmail.com) | [WhatsApp](https://wa.me/917974072866) | [LinkedIn](https://www.linkedin.com/in/nihal-anand)
+[Email](mailto:nihalanand697@gmail.com) | [WhatsApp](https://wa.me/917974072866) | [LinkedIn](https://www.linkedin.com/in/nihal-anand)
