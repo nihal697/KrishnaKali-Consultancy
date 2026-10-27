@@ -6,7 +6,7 @@ I don't start with a solution. I start by diagnosing your pain points to find ou
 
 If fixing it is worth it, I offer the simplest solution that works. If it's not worth it, I'll tell you that upfront.
 
-[📄 View Portfolio](./BOSD%20Portfolio%20Nihal%20Anand.pdf) | [📩 nihalanand697@gmail.com](mailto:nihalanand697@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nihal-anand)
+[📩 nihalanand697@gmail.com](mailto:nihalanand697@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nihal-anand)
 
 ## How I work
 
@@ -15,11 +15,10 @@ If fixing it is worth it, I offer the simplest solution that works. If it's not 
 3. **Solve** – If it is, I offer the simplest solution that works.
 4. **Handover** – I make sure it's easy for you or your team to keep running.
 
-## Proof
+## Case Studies
 
-**Collections Fix** — A practical example of turning a recurring headache into something that runs on its own. Every follow-up logged, with clear visibility of what's paid, due, or overdue.
-
-[See the build →](./systems/free-invoicing-system/README.md)
+- **[BOSD Portfolio](./BOSD%20Portfolio%20Nihal%20Anand.pdf)** – Full visual portfolio of past work.
+- **[Collections Fix](./systems/free-invoicing-system/README.md)** – Turning unpaid invoices into a system that follows up without you chasing. Every follow-up logged, with clear visibility of what's paid, due, or overdue.
 
 > Live client data is **not** in this repo. All examples use anonymized demo data. No passwords, API keys, or Workbook IDs are committed — see [`SECURITY.md`](./SECURITY.md).
 
@@ -53,9 +52,3 @@ If fixing it is worth it, I offer the simplest solution that works. If it's not 
 2. **Audit** — I rank fixes by cash impact: which operation, if systematized, pays for the rest (usually collections first)
 3. **Build** — one operation designed and live, on tools you already own. No new subscriptions unless you approve them
 4. **Handover** — SOP + Loom + 2-week support so the team runs it without you in the room
-
-## Get started
-
-Email **nihalanand697@gmail.com** with subject: *"Problem to solve"*
-
-Tell me what's getting in the way. That's all I need.
