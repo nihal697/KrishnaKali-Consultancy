@@ -1,8 +1,8 @@
-# Offer: Operations Control Build (productized service)
+# Collections Fix
 
-**Name:** Operations Control Build — "Runs without you chasing in 7 days."
+A practical fix for chasing payments. The goal is simple: get paid on time without you having to chase every invoice.
 
-Flagship proof: the collections operation (pre-due → grace → overdue → recurring, with controls + audit log). Built on client-owned tools; tools are implementation, never the offer.
+It covers pre-due → grace → overdue follow-ups, with controls, templates, and an audit log so every follow-up is tracked.
 
 ## Value equation (honest scores, 1–10)
 

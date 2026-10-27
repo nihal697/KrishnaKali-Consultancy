@@ -1,45 +1,25 @@
-# Business Operations Portfolio — Nihal Anand
+# Business Operations Portfolio
 
-**Designing structured systems, practical automation, and scalable workflows.**
+**I help businesses solve everyday problems and work more efficiently through better systems and technology.**
 
-I design business operations that run without you chasing — clear workflows, controlled systems, and automations your team actually follows. 
+I don't start with a solution. I start by diagnosing your pain points to find out what's actually getting in the way.
 
-📄 Full visual portfolio: [`BOSD Portfolio Nihal Anand.pdf`](./BOSD%20Portfolio%20Nihal%20Anand.pdf)
-📩 nihalanand697@gmail.com | 📞 +91 7974072866 | 🔗 [LinkedIn](https://www.linkedin.com/in/nihal-anand)
+If fixing it is worth it, I offer the simplest solution that works. If it's not worth it, I'll tell you that upfront.
 
----
+[📄 View Portfolio](./BOSD%20Portfolio%20Nihal%20Anand.pdf) | [📩 nihalanand697@gmail.com](mailto:nihalanand697@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nihal-anand)
 
-## What I do
+## How I work
 
-| Area | What it means in practice |
-|------|---------------------------|
-| **Business Operations** | End-to-end workflows (lead → setup → delivery → reporting) with ownership, controls, and visibility built in |
-| **System Design** | The operating system itself: who does what, in what order, with what checks — documented, not tribal knowledge |
-| **Automation** | Repetitive follow-ups, handoffs, and reporting handled automatically (I typically build on Workspace + Apps Script — tools, not the offer) |
-| **Documentation** | SOPs, templates, and Looms your team follows without you in the room |
+1. **Diagnose** – We talk through your day-to-day to find the real friction.
+2. **Assess** – I check if it's actually worth fixing.
+3. **Solve** – If it is, I offer the simplest solution that works.
+4. **Handover** – I make sure it's easy for you or your team to keep running.
 
-## Operational framework (case study: digital marketing agency)
+## Proof
 
-Four integrated systems, applicable across industries:
+**Collections Fix** — A practical example of turning a recurring headache into something that runs on its own. Every follow-up logged, with clear visibility of what's paid, due, or overdue.
 
-1. **Lead Management** — Lead → Qualification → Discovery → Proposal → Negotiation → Decision → Client Setup
-   - Value: standardized process, complete visibility, reliable handoff
-2. **Client Setup / Onboarding** — Proposal Accepted → Onboarding → Info Collection → Access Collection → Workspace Setup → Project Init → Ready for Strategy
-   - Value: standardized onboarding, complete records, faster setup
-3. **Planning & Production** — Strategy → Content Planning → Calendar → Creation → Internal Review → Client Approval → Ready to Publish
-   - Value: clear direction, consistent messaging, approval-ready deliverables
-4. **Performance & Reporting** — Publish → Monitor → Analyze → Report → Share Insights → Optimize
-   - Value: visibility, data-driven decisions, transparent reporting
-
-See [`framework/operational-framework.md`](./framework/operational-framework.md) for the full breakdown.
-
-## Proof it works: collections operation (agency case)
-
-**Outcome:** retainer payments chased by the system, not the founder. One view of what's paid/overdue/upcoming. Every follow-up logged. Team runs it in ~10 min/day.
-
-Built with free Google tools (details for operators: [`systems/free-invoicing-system/README.md`](./systems/free-invoicing-system/README.md)). The tools aren't the point — the operation is: pre-due → grace → overdue → recurring cadence, business-hours controls, per-invoice pause, threaded follow-ups, audit log.
-
-👉 Start here: [`systems/free-invoicing-system/README.md`](./systems/free-invoicing-system/README.md) · Fixed scope: [`offers/invoicing-automation-offer.md`](./offers/invoicing-automation-offer.md)
+[See the build →](./systems/free-invoicing-system/README.md)
 
 > Live client data is **not** in this repo. All examples use anonymized demo data. No passwords, API keys, or Workbook IDs are committed — see [`SECURITY.md`](./SECURITY.md).
 
@@ -50,7 +30,7 @@ Built with free Google tools (details for operators: [`systems/free-invoicing-sy
 ├── BOSD Portfolio Nihal Anand.pdf      # visual portfolio (original)
 ├── README.md                            # you are here
 ├── framework/
-│   └── operational-framework.md         # the 4-system framework
+│   └── operational-framework.md         # how I think about operations
 ├── systems/
 │   └── free-invoicing-system/
 │       ├── README.md                    # case study + architecture
@@ -62,23 +42,20 @@ Built with free Google tools (details for operators: [`systems/free-invoicing-sy
 ├── process/
 │   └── how-i-work.md                    # discovery → audit → build → handover
 ├── offers/
-│   └── invoicing-automation-offer.md    # named offer: scope, bonuses, guarantee
+│   └── invoicing-automation-offer.md    # collections fix details
 └── SECURITY.md                          # redaction + secrets policy
 ```
 
-## How I work
+## Get started
 
+<<<<<<< HEAD
 1. **Discovery — 30-min ops map, no pitch.** You walk me through how work flows today (leads, onboarding, delivery, collections, reporting); I map the 3 highest-ROI fixes. You keep the map either way.
 2. **Audit** — I rank fixes by cash impact: which operation, if systematized, pays for the rest (usually collections first)
 3. **Build** — one operation designed and live, on tools you already own. No new subscriptions unless you approve them
 4. **Handover** — SOP + Loom + 2-week support so the team runs it without you in the room
 
-Details: [`process/how-i-work.md`](./process/how-i-work.md)
+## Get started
 
-## Contact
+Email **nihalanand697@gmail.com** with subject: *"Problem to solve"*
 
-- Email: nihalanand697@gmail.com (subject: "Help me with this problem")
-- Phone: +91 7974072866
-- LinkedIn: [linkedin.com/in/nihal-anand](https://www.linkedin.com/in/nihal-anand)
-
-No pitch on the first call. You show me your current sheet; I map the 3 highest-ROI fixes. You keep the map either way.
+Tell me what's getting in the way. That's all I need.
