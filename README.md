@@ -15,7 +15,7 @@ If fixing it is worth it, I offer the simplest solution that works. If it's not 
 
 ## Case Studies
 
-- **[BOSD Portfolio](./BOSD%20Portfolio%20Nihal%20Anand.pdf)** – Full visual portfolio of past work.
+- **[Digital Marketing Operations End-to-End Design](./Digital%20Marketing%20Operations%20End-to-End%20Design.pdf)** – Full visual portfolio of past work.
 - **[Collections Fix](./systems/free-invoicing-system/README.md)** – Turning unpaid invoices into a system that follows up without you chasing. Every follow-up logged, with clear visibility of what's paid, due, or overdue.
 
 > Live client data is **not** in this repo. All examples use anonymized demo data. No passwords, API keys, or Workbook IDs are committed — see [`SECURITY.md`](./SECURITY.md).
@@ -24,8 +24,8 @@ If fixing it is worth it, I offer the simplest solution that works. If it's not 
 
 ```
 .
-├── BOSD Portfolio Nihal Anand.pdf      # visual portfolio (original)
-├── README.md                            # you are here
+├── Digital Marketing Operations End-to-End Design.pdf      # visual portfolio (original)
+├── README.md                                                # you are here
 ├── framework/
 │   └── operational-framework.md         # how I think about operations
 ├── systems/
