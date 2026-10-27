@@ -15,12 +15,17 @@ If there's a practical way to fix it, we'll help you find it and put it into act
 3. **Solve** – If it is, we offer the simplest solution that works.
 4. **Handover** – We make sure it's easy for you or your team to keep running.
 
-## Case Studies
+## Examples of our work
 
 - **[Digital Marketing Operations End-to-End Design](./Digital%20Marketing%20Operations%20End-to-End%20Design.pdf)** – Full visual portfolio.
 - **[Collections Fix](./systems/free-invoicing-system/README.md)** – Turning unpaid invoices into a system that follows up without you chasing. Every follow-up logged, with clear visibility of what's paid, due, or overdue.
 
 > Live client data is **not** in this repo. All examples use anonymized demo data. No passwords, API keys, or Workbook IDs are committed — see [`SECURITY.md`](./SECURITY.md).
+
+## Have a problem that's wasting time or making work harder than it should be?
+Tell us what's happening. We'll discuss whether there's a practical way to improve it.
+
+[Email](mailto:nihalanand697@gmail.com) | [WhatsApp](https://wa.me/917974072866) | [LinkedIn](https://www.linkedin.com/in/nihal-anand)
 
 ## Repo map
 
@@ -44,8 +49,3 @@ If there's a practical way to fix it, we'll help you find it and put it into act
 │   └── invoicing-automation-offer.md    # collections fix details
 └── SECURITY.md                          # redaction + secrets policy
 ```
-
-## Have a problem that's wasting time or making work harder than it should be?
-Tell us what's happening. We'll discuss whether there's a practical way to improve it.
-
-[Email](mailto:nihalanand697@gmail.com) | [WhatsApp](https://wa.me/917974072866) | [LinkedIn](https://www.linkedin.com/in/nihal-anand)
