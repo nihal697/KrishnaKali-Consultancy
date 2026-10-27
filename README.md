@@ -6,6 +6,7 @@ I don't start with a solution. I start by diagnosing your pain points to find ou
 
 If fixing it is worth it, I offer the simplest solution that works. If it's not worth it, I'll tell you that upfront.
 
+[📩 nihalanand697@gmail.com](mailto:nihalanand697@gmail.com) | [WhatsApp](https://wa.me/917974072866) | [LinkedIn](https://www.linkedin.com/in/nihal-anand)
 
 ## How I work
 
